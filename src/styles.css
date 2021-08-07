@@ -1,0 +1,9 @@
+body {
+  font-family: "Gowun Dodum", sans-serif;
+  height: 100% !important;
+  margin: 0;
+  box-sizing: border-box;
+}
+.App {
+  padding: 5px;
+}

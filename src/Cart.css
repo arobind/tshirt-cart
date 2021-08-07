@@ -1,0 +1,19 @@
+.cart-button-container {
+  float: right;
+}
+
+.cart-button {
+  position: relative;
+}
+
+.cart-button-qty {
+  font-size: 60%;
+  position: absolute;
+  right: 8px;
+  top: 16px;
+  border: 1px solid white;
+  background: white;
+  border-radius: 10px;
+  padding: 0 1px 0;
+  color: black;
+}
